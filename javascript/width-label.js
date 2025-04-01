@@ -19,6 +19,5 @@ function toggleMenu(event) {
   menu.classList.toggle("show-menu");
 }
 
-
 hamburgerMenu.addEventListener("click", toggleMenu);
 
